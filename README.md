@@ -1,1 +1,0 @@
-# covek.github.io
