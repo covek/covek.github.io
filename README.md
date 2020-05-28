@@ -1,1 +1,1 @@
-# covek.guthub.io
+# covek.github.io
